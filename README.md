@@ -1,5 +1,7 @@
 # q2c-integration-hub
 
+> **Moved.** This project now lives in [revenue-systems/q2c-integration-hub](https://github.com/su0xpj-bastion/revenue-systems/tree/main/q2c-integration-hub), where it is maintained and tested. This repository is archived and read-only.
+
 An in-house quote-to-cash integration layer on Salesforce. It keeps contracts and subscriptions
 consistent across **Salesforce**, a **CLM** (contract lifecycle management) system, and a
 **Billing** system when those systems retry, duplicate, reorder, time out, or drift. Built with Apex,
